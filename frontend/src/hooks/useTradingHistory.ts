@@ -121,7 +121,7 @@ export function useTradingHistory() {
 
         // Convert events to TradeRecord format
         const trades: TradeRecord[] = events.map((event: unknown) => {
-          const { user, token, shares, cost, fee } = (
+          const { user: _user, token, shares, cost, fee } = (
             event as {
               args: {
                 user: string;
