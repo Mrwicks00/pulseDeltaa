@@ -7,6 +7,8 @@
 </div>
 
 - **Website**: [pulsedelta](https://pulsedeltaa.vercel.app/)
+- **Demo Video**: [demovideo](https://www.youtube.com/watch?v=TnBEKN8ctLk)
+- **Pitch Deck**: [pitchdek](https://docs.google.com/presentation/d/1Qe7CCljE3NoE60m4RiBI11kmKqYSchavZw6juGH3xG0/edit?usp=sharing)
 
 
 ## Overview
