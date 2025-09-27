@@ -433,7 +433,7 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Website**: [docs.pulsedelta.com](https://docs.pulsedelta.com)
+- **Website**: [pulsedelta](https://pulsedeltaa.vercel.app/)
 - **GitHub**: [github.com/pulsedelta](https://github.com/Mrwicks00/pulseDeltaa)
 
 ## Team
