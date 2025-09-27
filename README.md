@@ -442,11 +442,11 @@ MIT License - see LICENSE file for details
 
 | Name               | Role                    | GitHub                                             |
 | ------------------ | ----------------------- | -------------------------------------------------- |
-| **Adekunle Victor**   | Smart Contract dev           | [@alexjohnson](https://github.com/mrwicks00)     |
-| **Adeleke Theophilus**     | Fullstack dev          | [@sarahchen](https://github.com/Robotron2)         |
-| **Olusola Favour** | Frontend Developer | [@mikerodriguez](https://github.com/favour4712) |
-| **Aseeperi Peter**    | Frontend Developer      | [@emmawilson](https://github.com/DRock0)       |
-| **Adeniran Ibrahim**      | Smart contract dev         | [@davidkim](https://github.com/DIFoundation)           |
+| **Adekunle Victor**   | Smart Contract dev           | [@MRWICKS](https://github.com/mrwicks00)     |
+| **Adeleke Theophilus**     | Fullstack dev          | [@Theo](https://github.com/Robotron2)         |
+| **Olusola Favour** | Frontend Developer | [@favour4712](https://github.com/favour4712) |
+| **Aseeperi Peter**    | Frontend Developer      | [@D_Rock0](https://github.com/DRock0)       |
+| **Adeniran Ibrahim**      | Smart contract dev         | [@difoundation](https://github.com/DIFoundation)           |
 
 </div>
 
