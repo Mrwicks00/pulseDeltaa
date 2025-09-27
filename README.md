@@ -247,7 +247,7 @@ Oracle → Market Contract → Winners
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Mrwicks00/pulseDeltaa.git)>
 cd PulseDelta
 ```
 
@@ -433,10 +433,8 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-- **Documentation**: [docs.pulsedelta.com](https://docs.pulsedelta.com)
-- **Discord**: [discord.gg/pulsedelta](https://discord.gg/pulsedelta)
-- **Twitter**: [@PulseDelta](https://twitter.com/pulsedelta)
-- **GitHub**: [github.com/pulsedelta](https://github.com/pulsedelta)
+- **Website**: [docs.pulsedelta.com](https://docs.pulsedelta.com)
+- **GitHub**: [github.com/pulsedelta](https://github.com/Mrwicks00/pulseDeltaa)
 
 ## Team
 
@@ -444,11 +442,11 @@ MIT License - see LICENSE file for details
 
 | Name               | Role                    | GitHub                                             |
 | ------------------ | ----------------------- | -------------------------------------------------- |
-| **Alex Johnson**   | Founder & CEO           | [@alexjohnson](https://github.com/alexjohnson)     |
-| **Sarah Chen**     | Lead Developer          | [@sarahchen](https://github.com/sarahchen)         |
-| **Mike Rodriguez** | Smart Contract Engineer | [@mikerodriguez](https://github.com/mikerodriguez) |
-| **Emma Wilson**    | Frontend Developer      | [@emmawilson](https://github.com/emmawilson)       |
-| **David Kim**      | Product Manager         | [@davidkim](https://github.com/davidkim)           |
+| **Adekunle Victor**   | Smart Contract dev           | [@alexjohnson](https://github.com/mrwicks00)     |
+| **Adeleke Theophilus**     | Fullstack dev          | [@sarahchen](https://github.com/Robotron2)         |
+| **Olusola Favour** | Frontend Developer | [@mikerodriguez](https://github.com/favour4712) |
+| **Aseeperi Peter**    | Frontend Developer      | [@emmawilson](https://github.com/DRock0)       |
+| **Adeniran Ibrahim**      | Smart contract dev         | [@davidkim](https://github.com/DIFoundation)           |
 
 </div>
 
@@ -462,5 +460,5 @@ MIT License - see LICENSE file for details
 
 <div align="center">
     <p>Built with ❤️ for the community</p>
-    <p>© 2024 PulseDelta. All rights reserved.</p>
+    <p>© 2025 PulseDelta. All rights reserved.</p>
 </div>
